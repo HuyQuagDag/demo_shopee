@@ -1,0 +1,38 @@
+/* HEADER */
+.header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.header__title {
+    display: flex;
+}
+
+.header__logo {
+    width: 130px;
+}
+
+.header__logo-link {
+
+}
+
+.icon-logo {
+    fill:  var(--primary-color);
+}
+
+.header__heading {
+
+}
+
+.header__heading-text {
+
+}
+
+.header__support {
+
+}
+
+.header__support-btn {
+
+}
